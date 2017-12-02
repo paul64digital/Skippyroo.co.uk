@@ -1,0 +1,29 @@
+
+body { background-color:#000000; font-family:Arial,sans-serif }
+A:link { color:#FFFFFF }
+A:visited { color:#FFFF00 }
+A:active  { color:#008000 }
+
+table { border-style:groove; border-width:thin; border-color:#000000; width: 100% }
+td { vertical-align:top; }
+th { background-color:#000080; text-align:center; vertical-align:middle }
+img { border-style:none }
+p { font-size:10pt }
+font { font-size:10pt }
+td { font-size:10pt }
+
+.title { font-size:36pt; background-color:#000080; color:#FFCC00; font-style:italic }
+.orange { font-size:10pt; background-color:#FF6600 }
+.header { font-size:10pt; background-color:#000080; color:#FFCC00; font-weight:bolder; font-style:italic; text-align: center }
+.text { font-size:10pt; color:#000000; font-weight:bold }
+.backtext { font-size:10pt; color:#FFCC00; font-weight:bold }
+.sorry { font-size:25pt; color:#FFCC00; font-style:italic; font-weight:bold; text-align:center }
+.warning { font-size:14pt; color:#FF0000; font-weight:bold }
+.note { font-size:10pt; color:#FFFFFF; font-weight:bold }
+
+.blank { background-color:#000000; border-style:none; border-width:thin; border-color:#000000 }
+.bold { font-weight:bold }
+.olist { font-size:10pt; background-color:#FF6600; padding:2em; border-width:medium; border-color:blue; border-style:solid; width: 50% }
+.mytable{ font-size:10pt; background-color:#000000; border-style:none; border-color:#000000; }
+.imagetable { font-size:10pt; background-color:#000000; border-style:none; width:auto; vertical-align:bottom }
+.subtitle { font-size:12pt; color:#99FF99; text-decoration:underline; font-weight:bold }
